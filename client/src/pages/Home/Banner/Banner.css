@@ -1,0 +1,19 @@
+/* Banner */
+.tourism-banner {
+    background-image: url("https://i.ibb.co/BtY7pS6/travel-banner.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.banner-title {
+    font-size: 3em;
+}
+
+/* Search Bar */
+.home-search-bar {
+    background-color: #77777777;
+}
